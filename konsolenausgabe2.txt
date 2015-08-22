@@ -1,0 +1,1040 @@
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 93816" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 93816 Zeit: 5.441" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 57699" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 57699 Zeit: 5.172" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 38317" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 38317 Zeit: 4.382" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 58662" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 58662 Zeit: 5.116" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 31552" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 31552 Zeit: 5.001" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 98362" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 98362 Zeit: 4.795" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 40953" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 40953 Zeit: 4.671" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 11414" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 11414 Zeit: 4.188" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 48689" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 48689 Zeit: 4.817" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 35286" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 35286 Zeit: 4.537" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 47496" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 47496 Zeit: 5.01" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 27802" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 27802 Zeit: 4.293" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 52949" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 52949 Zeit: 4.612" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 19790" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 19790 Zeit: 4.074" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 26197" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 26197 Zeit: 3.986" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 69818" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 69818 Zeit: 7.258" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 80128" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 80128 Zeit: 3.901" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 67618" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 67618 Zeit: 4.102" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 93817" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 93817 Zeit: 4.314" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 15355" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 15355 Zeit: 4.774" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 95621" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 95621 Zeit: 4.638" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 68821" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 68821 Zeit: 4.448" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 31947" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 31947 Zeit: 4.217" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 99875" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 99875 Zeit: 4.703" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 13779" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 13779 Zeit: 4.529" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 43440" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 43440 Zeit: 4.22" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 95610" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 95610 Zeit: 4.066" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 37224" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 37224 Zeit: 4.793" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 75307" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 75307 Zeit: 4.263" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 85509" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 85509 Zeit: 4.758" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 99294" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 99294 Zeit: 4.703" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 73966" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 73966 Zeit: 4.951" View.js:54:12
+
+
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 29338" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 29338 Zeit: 3.227" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 32876" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 32876 Zeit: 3.399" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 47983" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 47983 Zeit: 3.696" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 56802" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 56802 Zeit: 3.212" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 66180" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 66180 Zeit: 3.276" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 86493" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 86493 Zeit: 3.468" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 28250" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 28250 Zeit: 3.313" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 89272" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 89272 Zeit: 4.672" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 44829" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 44829 Zeit: 4.012" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 85345" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 85345 Zeit: 3.707" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 71237" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 71237 Zeit: 3.697" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 36874" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 36874 Zeit: 3.856" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 44679" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 44679 Zeit: 3.805" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 30388" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 30388 Zeit: 3.589" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 57715" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 57715 Zeit: 3.592" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 54798" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 54798 Zeit: 3.755" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 74459" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 74459 Zeit: 3.512" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 28452" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 28452 Zeit: 3.976" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 88926" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 88926 Zeit: 3.761" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 73126" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 73126 Zeit: 3.313" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 42709" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 42709 Zeit: 3.578" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 41054" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 41054 Zeit: 3.306" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 44769" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 44769 Zeit: 3.388" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 46653" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 46653 Zeit: 3.624" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 76914" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 76914 Zeit: 3.723" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 86923" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 86923 Zeit: 3.948" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 19151" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 19151 Zeit: 3.33" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 21344" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 21344 Zeit: 3.146" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 43425" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 43425 Zeit: 3.381" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 51855" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 51855 Zeit: 3.4" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 98504" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 98504 Zeit: 4.132" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 48056" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 48056 Zeit: 3.594" View.js:54:12
+
+
+
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 27920" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 27920 Zeit: 4.404" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 66070" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 66070 Zeit: 3.592" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 14109" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 14109 Zeit: 3.558" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 23123" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 23123 Zeit: 3.966" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 12150" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 12150 Zeit: 3.751" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 17601" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 17601 Zeit: 3.619" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 92077" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 92077 Zeit: 3.878" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 61616" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 61616 Zeit: 9.272" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 55897" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 55897 Zeit: 4.511" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 63427" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 63427 Zeit: 3.805" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 68208" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 68208 Zeit: 3.805" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 82851" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 82851 Zeit: 4.184" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 62661" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 62661 Zeit: 3.827" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 31742" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 31742 Zeit: 4.24" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 65375" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 65375 Zeit: 5.098" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 62993" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 62993 Zeit: 4.505" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 84617" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 84617 Zeit: 4.138" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 46995" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 46995 Zeit: 4.078" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 63224" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 63224 Zeit: 4.487" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 75608" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 75608 Zeit: 3.523" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 13512" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 13512 Zeit: 4.314" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 82623" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 82623 Zeit: 4.206" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 28814" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 28814 Zeit: 3.914" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 27815" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 27815 Zeit: 4.353" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 77434" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 77434 Zeit: 4.266" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 42659" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 42659 Zeit: 4.305" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 92855" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 92855 Zeit: 7.206" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 97666" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 97666 Zeit: 3.92" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 13625" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 13625 Zeit: 3.823" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 19196" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 19196 Zeit: 3.559" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 20794" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 20794 Zeit: 3.867" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 92268" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 92268 Zeit: 4.532" View.js:54:12
+
+
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 74610" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 74610 Zeit: 3.689" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 83463" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 83463 Zeit: 3.562" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 33195" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 33195 Zeit: 3.356" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 65990" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 65990 Zeit: 3.537" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 31024" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 31024 Zeit: 3.749" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 97537" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 97537 Zeit: 4.013" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 29738" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 29738 Zeit: 4.736" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 16907" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 16907 Zeit: 3.575" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 61195" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 61195 Zeit: 3.716" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 59843" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 59843 Zeit: 3.863" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 78947" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 78947 Zeit: 6.402" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 18442" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 18442 Zeit: 3.728" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 68367" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 68367 Zeit: 4.776" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 62695" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 62695 Zeit: 3.802" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 96100" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 96100 Zeit: 3.484" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 65685" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 65685 Zeit: 4.182" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 56076" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 56076 Zeit: 5.145" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 40523" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 40523 Zeit: 3.799" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 24377" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 24377 Zeit: 3.8" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 89252" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 89252 Zeit: 4.346" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 64934" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 64934 Zeit: 4.372" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 16951" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 16951 Zeit: 3.84" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 30118" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 30118 Zeit: 3.593" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 66843" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 66843 Zeit: 3.793" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 27369" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 27369 Zeit: 3.879" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 18740" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 18740 Zeit: 3.58" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 24463" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 24463 Zeit: 3.705" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 86384" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 86384 Zeit: 4.311" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 11041" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 11041 Zeit: 3.443" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 12565" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 12565 Zeit: 3.754" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 13464" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 13464 Zeit: 3.744" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 41248" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 41248 Zeit: 3.846"
+
+
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 27736" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 27736 Zeit: 3.966" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 16534" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 16534 Zeit: 4.255" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 67906" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 67906 Zeit: 4.422" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 75372" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 75372 Zeit: 4.522" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 66319" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 66319 Zeit: 3.767" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 72074" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 72074 Zeit: 3.786" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 37120" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 37120 Zeit: 3.892" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 25982" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 25982 Zeit: 4.242" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 87291" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 87291 Zeit: 4.058" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 25858" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 25858 Zeit: 5.335" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 10222" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 10222 Zeit: 3.24" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 48588" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 48588 Zeit: 5.336" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 67131" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 67131 Zeit: 4.35" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 41446" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 41446 Zeit: 3.646" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 60915" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 60915 Zeit: 3.915" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 79121" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 79121 Zeit: 3.555" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 77509" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 77509 Zeit: 3.665" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 87373" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 87373 Zeit: 4.003" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 31445" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 31445 Zeit: 3.962" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 78349" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 78349 Zeit: 3.941" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 34996" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 34996 Zeit: 4.066" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 14230" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 14230 Zeit: 5.297" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 11819" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 11819 Zeit: 3.618" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 66008" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 66008 Zeit: 4.231" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 24083" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 24083 Zeit: 4.054" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 19107" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 19107 Zeit: 3.367" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 77260" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 77260 Zeit: 3.824" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 22508" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 22508 Zeit: 4.031" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 24658" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 24658 Zeit: 5.355" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 49656" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 49656 Zeit: 5.805" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 67662" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 67662 Zeit: 3.915" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 38306" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 38306 Zeit: 3.88" View.js:54:12
+
+
+
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 12702" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 12702 Zeit: 4.103" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 20827" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 20827 Zeit: 3.615" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 37782" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 37782 Zeit: 4.187" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 75045" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 75045 Zeit: 4.073" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 33676" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 33676 Zeit: 3.727" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 44158" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 44158 Zeit: 3.711" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 37103" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 37103 Zeit: 3.878" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 57476" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 57476 Zeit: 6.877" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 34271" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 34271 Zeit: 3.509" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 11732" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 11732 Zeit: 5.728" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 74498" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 74498 Zeit: 4.523" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 64608" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 64608 Zeit: 7.502" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 50482" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 50482 Zeit: 6.431" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 44771" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 44771 Zeit: 4.311" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 34024" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 34024 Zeit: 3.639" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 90638" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 90638 Zeit: 4.359" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 83827" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 83827 Zeit: 6.909" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 71879" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 71879 Zeit: 8.68" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 24178" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 24178 Zeit: 4.077" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 75241" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 75241 Zeit: 4.934" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 55560" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 55560 Zeit: 4.327" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 23888" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 23888 Zeit: 4.936" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 31689" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 31689 Zeit: 8.194" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 28469" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 28469 Zeit: 6.378" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 81804" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 81804 Zeit: 4.455" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 89532" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 89532 Zeit: 4.727" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 22592" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 22592 Zeit: 4.968" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 97556" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 97556 Zeit: 4.538" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 54512" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 54512 Zeit: 5.572" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 76292" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 76292 Zeit: 4.604" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 71961" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 71961 Zeit: 5.126" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 81774" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 81774 Zeit: 4.119" View.js:54:12
+
+
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 45822" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 45822 Zeit: 4.608" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 59578" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 59578 Zeit: 5.711" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 50366" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 50366 Zeit: 4.292" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 43132" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 43132 Zeit: 6.671" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 76830" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 76830 Zeit: 4.555" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 99334" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 99334 Zeit: 4.911" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 43362" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 43362 Zeit: 4.702" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 84631" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 84631 Zeit: 4.382" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 67257" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 67257 Zeit: 5.767" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 57773" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 57773 Zeit: 4.597" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 70765" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 70765 Zeit: 4.548" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 79432" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 79432 Zeit: 5.427" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 93381" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 93381 Zeit: 4.37" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 10048" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 10048 Zeit: 3.961" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 45871" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 45871 Zeit: 4.394" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 91539" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 91539 Zeit: 4.616" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 90571" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 90571 Zeit: 4.779" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 62655" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 62655 Zeit: 5.527" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 30061" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 30061 Zeit: 3.595" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 39920" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 39920 Zeit: 4.23" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 10706" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 10706 Zeit: 3.431" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 96669" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 96669 Zeit: 7.13" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 51136" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 51136 Zeit: 3.93" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 11839" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 11839 Zeit: 4.948" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 17430" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 17430 Zeit: 4.728" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 60955" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 60955 Zeit: 4.064" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 74271" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 74271 Zeit: 4.986" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 42263" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 42263 Zeit: 4.641" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 73777" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 73777 Zeit: 4.167" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 67035" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 67035 Zeit: 4.277" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 14205" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 14205 Zeit: 4.014" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 80606" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 80606 Zeit: 4.394" View.js:54:12
+
+
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 96258" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 96258 Zeit: 4.25" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 18022" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 18022 Zeit: 3.14" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 49275" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 49275 Zeit: 3.878" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 38052" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 38052 Zeit: 5.83" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 13766" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 13766 Zeit: 3.925" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 88322" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 88322 Zeit: 4.152" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 82737" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 82737 Zeit: 4.259" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 48529" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 48529 Zeit: 6.742" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 28273" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 28273 Zeit: 5.109" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 11266" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 11266 Zeit: 3.919" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 63884" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 63884 Zeit: 6.047" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 64959" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 64959 Zeit: 6.492" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 61531" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 61531 Zeit: 4.47" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 95633" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 95633 Zeit: 4.814" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 17924" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 17924 Zeit: 4.315" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 88331" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 88331 Zeit: 4.13" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 45987" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 45987 Zeit: 3.963" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 53355" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 53355 Zeit: 4.487" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 68368" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 68368 Zeit: 5.468" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 57859" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 57859 Zeit: 5.065" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 74107" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 74107 Zeit: 3.913" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 66642" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 66642 Zeit: 5.445" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 33067" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 33067 Zeit: 3.922" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 73115" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 73115 Zeit: 3.799" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 76875" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 76875 Zeit: 5.79" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 89648" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 89648 Zeit: 8.464" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 78623" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 78623 Zeit: 5.436" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 47036" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 47036 Zeit: 4.03" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 65773" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 65773 Zeit: 3.917" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 63175" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 63175 Zeit: 4.169" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 13075" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 13075 Zeit: 3.605" View.js:54:12
+"Button clicked" View.js:45:8
+"Logic: showNextNumber, nextNum = 37819" Logic.js:13:0
+"Button clicked" View.js:45:8
+"Zahl: 37819 Zeit: 3.958" View.js:54:12

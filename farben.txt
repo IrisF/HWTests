@@ -1,0 +1,5 @@
+Test 2: color:#E8EBCD;
+background-color: #B2B3B3;
+
+Test 3: color:#DDDFC9;
+background-color: #D2D3CA;

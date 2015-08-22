@@ -1,0 +1,43 @@
+int pos1[] = {num0,num9,num6,num5,num8, num0,num9,num5,num8,num3, num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9};
+int pos2[] = {num8,num2,num2,num3,num7, num7,num2,num0,num5,num8, num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9};
+int pos3[] = {num7,num4,num0,num4,num4, num5,num5,num6,num9,num4, num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9};
+int pos4[] = {num8,num8,num1,num2,num4 ,num5,num9,num7,num3,num4, num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9};
+int pos5[] = {num6,num1,num4,num3,num4, num7,num8,num5,num9,num1, num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9};
+int pos6[] = {num2,num8,num8,num2,num5, num2,num2,num3,num1,num1, num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9,num3,num4,num8,num7,num4,num2,num0,num0,num7,num9};
+
+613229 View.js:68:13
+529930 View.js:68:13
+605483 View.js:68:13
+383992 View.js:68:13
+838101 View.js:68:13
+540618 View.js:68:13
+970774 View.js:68:13
+180679 View.js:68:13
+374293 View.js:68:13
+756578 View.js:68:13
+707634 View.js:68:13
+455739 View.js:68:13
+724619 View.js:68:13
+460033 View.js:68:13
+145423 View.js:68:13
+164129 View.js:68:13
+470916 View.js:68:13
+165639 View.js:68:13
+504550 View.js:68:13
+885421 View.js:68:13
+772943 View.js:68:13
+526568 View.js:68:13
+506192 View.js:68:13
+464821 View.js:68:13
+688636 View.js:68:13
+256140 View.js:68:13
+114483 View.js:68:13
+193958 View.js:68:13
+357605 View.js:68:13
+289529 View.js:68:13
+275570 View.js:68:13
+544478 View.js:68:13
+232435 View.js:68:13
+841026 View.js:68:13
+818429 View.js:68:13
+268780

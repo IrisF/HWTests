@@ -1,0 +1,21 @@
+klein:
+- 7,62mm, gruen : http://www.conrad.de/ce/de/product/1050487/7-Segment-Anzeige-Gruen-762-mm-2-V-Ziffernanzahl-1-Kingbright-KCSA03-123?ref=searchDetail
+- 7,62mm, rot: http://www.conrad.de/ce/de/product/1050489/7-Segment-Anzeige-Rot-762-mm-185-V-Ziffernanzahl-1-Kingbright-KCSC03-105?ref=searchDetail
+
+mittel:
+- 14mm, gruen: http://www.conrad.de/ce/de/product/160115/7-Segment-Anzeige-Gruen-14-mm-22-V-Ziffernanzahl-1-Kingbright-SA56-11GWA?ref=searchDetail
+- 14mm, rot: http://www.conrad.de/ce/de/product/160116/7-Segment-Anzeige-Rot-14-mm-2-V-Ziffernanzahl-1-Kingbright-SC56-11EWA?ref=searchDetail
+
+gross:
+- 25,4mm, rot: http://www.conrad.de/ce/de/product/1050569/7-Segment-Anzeige-Rot-254-mm-37-V-Ziffernanzahl-1-Kingbright-SA10-21SURKWA?ref=searchDetail
+- 25,4mm, gruen: http://www.conrad.de/ce/de/product/1050574/7-Segment-Anzeige-Gruen-254-mm-4-V-Ziffernanzahl-1-Kingbright-SC10-21CGKWA?ref=searchDetail
+
+oder:
+- 56,9mm, gruen: http://www.conrad.de/ce/de/product/1050577/7-Segment-Anzeige-Gruen-569-mm-8-V-Ziffernanzahl-1-Kingbright-SA23-12CGKWA?ref=searchDetail
+- 56,9mm, rot: http://www.conrad.de/ce/de/product/1050575/7-Segment-Anzeige-Rot-569-mm-74-V-Ziffernanzahl-1-Kingbright-SA23-12SURKWA?ref=searchDetail
+Aber: teurer, 7,4V moeglich?
+
+
+https://cdn-reichelt.de/documents/datenblatt/A240/74HC4511_74HCT4511%23PHI.pdf
+
+http://www.elmotex.de/downloads/sa_sc_52-11.pdf
